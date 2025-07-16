@@ -1,9 +1,8 @@
-import { tr } from "motion/react-client";
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
-  //output: 'export',
+  output: 'export',
   typescript: {
     ignoreBuildErrors: true,
   },
@@ -12,3 +11,4 @@ const nextConfig: NextConfig = {
   }
 };
 
+export default nextConfig;
