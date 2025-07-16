@@ -9,7 +9,7 @@ const Clients = () => {
         {/*A Small selection of{" "} */}
         <span className="text-purple">Testimonials</span>
       </h1>
-      <div className="flex flex-col items-center mt-10">
+      <div className="flex flex-col items-center mt-10 ">
             <InfiniteMovingCards items={testimonials} direction="right" speed="normal"/>
       </div>
     </div>
