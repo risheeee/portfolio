@@ -4,8 +4,8 @@ import { testimonials } from "@/data";
 
 const Clients = () => {
   return (
-    <div className="mb-30" id="testimonials">
-      <h1 className="heading">
+    <div className="mb-35" id="testimonials">
+      <h1 className="heading sm:text-sm">
         {/*A Small selection of{" "} */}
         <span className="text-purple">Testimonials</span>
       </h1>

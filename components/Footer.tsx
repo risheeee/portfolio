@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer className='w-full pt-10 mb-[50px] md:mb-5' id='contact'>
       <div className='flex flex-col items-center'>
-        <h1 className='heading lg:max-w-[45vh]'>
+        <h1 className='heading lg:max-w-[45vh] sm:text-sm'>
             Let's <span className='text-purple'> Connect</span>
         </h1>
         <p className='text-whte-200 md:mt-10 my-5 text-center'>

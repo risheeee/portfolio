@@ -8,7 +8,7 @@ import Link from "next/link";
 const RecentBlogs = () => {
   return (
     <section className="w-full py-20">
-        <h1 className="heading">
+        <h1 className="heading sm:text-sm">
             Recent <span className="text-purple"> Blogs</span>
         </h1>
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center gap-14">

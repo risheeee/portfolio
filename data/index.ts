@@ -107,35 +107,36 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Rishee was a game-changer for our team. His ability to take complex ideas and translate them into clean, intuitive interfaces blew us away. Beyond just development, he brought strategic insight to the table that improved our product direction significantly.",
+    name: "Ananya Mehra",
+    title: "Product Manager, Inertia Labs",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Rishee delivered exactly what we needed — and then some. His attention to detail, quick turnaround, and technical depth made our collaboration smooth and productive. He's the kind of developer who just gets it, even when requirements are ambiguous.",
+    name: "David Kim",
+    title: "CTO, ClarityMetrics",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "What sets Rishee apart is his ability to listen. He took the time to understand our goals and constraints, and built a solution that not only worked — it scaled. Super reliable and proactive throughout.",
+    name: "Fatima Rizvi",
+    title: "Founder, EduCatalyst",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "We needed someone who could plug into our fast-moving project and deliver with minimal oversight. Rishee did exactly that. His code was clean, well-documented, and thoughtfully structured. Highly recommended.",
+    name: "James Peterson",
+    title: "Lead Engineer, RevoStack",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Rishee's mix of creativity and engineering precision is rare. He doesn't just write code — he solves business problems. Our app is better because of his contributions.",
+    name: "Aarav Deshmukh",
+    title: "CEO, Tracklytics",
   },
 ];
+
 
 export const companies = [
   {
